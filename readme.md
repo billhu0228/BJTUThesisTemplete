@@ -14,6 +14,6 @@
 3.希望呼吁交大官方能重视latex的推广，早日发布“官方”的论文模板；
 
 ***
-###2017-2-15
+##2017-2-15
 内容迁移到我的[Git](https://github.com/billhu0228/BJTUThesisTemplete)，并进一步进行完善。
 
