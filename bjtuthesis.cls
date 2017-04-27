@@ -46,7 +46,7 @@
 \setlength{\belowcaptionskip}{0pt}
 \CTEXsetup[name={,}]{chapter}
 \CTEXsetup[number={\arabic{chapter}}]{chapter}
-\CTEXsetup[beforeskip={24pt}]{chapter}
+\CTEXsetup[beforeskip={0pt}]{chapter}
 \CTEXsetup[afterskip={18pt}]{chapter}
 \CTEXsetup[nameformat={}]{chapter}
 \CTEXsetup[titleformat={}]{chapter}
@@ -244,7 +244,7 @@
 	\end{thecenter}
 
 	\cabstract
-	\newpage
+
 }
 \newcommand{\eabspage}{
 	\thispagestyle{myfancy}
